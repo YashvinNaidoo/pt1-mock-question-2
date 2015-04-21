@@ -4,9 +4,9 @@
 // Student No:
 // Date: 
 ///////////////////////////////////////////////////////////////////////////////////////////////////
-#include <iostream>
+//#include <iostream>
 
-using namespace std;
+//using namespace std;
 
 // ***** QUESTION 2 *****
 // Question 2 consists of 3 parts
@@ -19,7 +19,7 @@ using namespace std;
 
 
 // ***** DO NOT MODIFY CODE BELOW THIS LINE *****
-int main(int argc, char *argv[]) {
+/*int main(int argc, char *argv[]) {
 
 	Time myTime(8, 40);									// instantiate time class 
 
@@ -31,4 +31,4 @@ int main(int argc, char *argv[]) {
 	myTime.get(hours, mins);
 	cout << "Design 1 starts at " << mins << " past " << hours;   // display time in another format
 
-}
+}*/
